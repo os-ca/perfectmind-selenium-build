@@ -1,0 +1,8 @@
+{
+    "threads": 14,
+    "use_proxies": true,
+    "headless_setting": false,
+    "webhook": "",
+    "timeout": 20,
+    "delay": 300
+}
